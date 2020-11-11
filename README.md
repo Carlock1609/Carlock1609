@@ -1,7 +1,7 @@
 <h2 align="center"><samp>Hi there 👋, I'm Jonathan.</samp></h2>
 
 - 🔭 I’m currently working at **<a href="https://pdxcodeguild.com/">PDX Code Guild</a>** and **<a href="https://openwatervc.com/">Open Water Accelerator</a>**.
-- 🌱 I’m currently learning **Next.js**.
+- 🌱 I’m currently learning **React**.
 - 📫 How to reach me: [email](mailto:https://mail.google.com/mail/u/0/), [linkedin](https://www.linkedin.com/in/jonathan-yates-297130195/)
 - 😄 Pronouns: he/him
 
