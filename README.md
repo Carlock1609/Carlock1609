@@ -1,4 +1,4 @@
-<h2 align="center"><samp>Hi there 👋, I'm Justin.</samp></h2>
+<h2 align="center"><samp>Hi there 👋, I'm Jonathan.</samp></h2>
 
 - 🔭 I’m currently working at **<a href="https://pdxcodeguild.com/">PDX Code Guild</a>** and **<a href="https://openwatervc.com/">Open Water Accelerator</a>**.
 - 🌱 I’m currently learning **Next.js**.
