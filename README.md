@@ -8,6 +8,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Carlock1609&show_icons=true&count_private=true" alt="Carlock1609" />
 <br />  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlock1609&layout=compact&hide=html" alt="Carlock1609" />
-<br />
-<br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Carlock1609" alt="Carlock1609" />
+
